@@ -1,4 +1,4 @@
-# notificationdemo
+# Firebase Cloud Messaging
 
 To Enable Push Notification Register with Firebase, add app and configure google-services.json
 
