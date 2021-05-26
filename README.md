@@ -1,16 +1,13 @@
 # notificationdemo
 
-A new Flutter project.
+To Enable Push Notification Register with Firebase, add app and configure google-services.json
 
-## Getting Started
+## Get going with firebase cloud messaging
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to your Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Firebase Compatibility Tester](https://firebase.google.com/support/release-notes/android)
+- [Useful Flutter Firebase Link](https://firebase.flutter.dev/docs/messaging/usage/)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
